@@ -5,15 +5,13 @@
 
   "name": "Better Flying",
   "description": "Makes creative flying more like Bedrock",
-  "authors": [
-    "Me!"
-  ],
+  "authors": ["james090500"],
   "contact": {
     "homepage": "https://github.com/james090500/BetterFlying",
     "sources": "https://github.com/james090500/BetterFlying"
   },
 
-  "license": "CC0-1.0",
+  "license": "All Rights Reserved",
   "icon": "assets/betterflying/icon.png",
 
   "environment": "*",
